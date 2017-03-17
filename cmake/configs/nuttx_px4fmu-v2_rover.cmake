@@ -161,9 +161,8 @@ set(config_module_list
 	#modules/bottle_drop
 
 	#
-	# Rover apps
-	#
-	#examples/rover_steering_control
+	Rover apps
+	examples/rover_steering_control
 
 	#
 	# Demo apps
